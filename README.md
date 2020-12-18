@@ -43,15 +43,15 @@ An opportunity to transform cybersecurity-related programming exists due to the 
 
 ## References
 
-1) Severance, C. (2015). Guido van Rossum: The Early Years of Python. Computer, 48(2), 7–9. https://doi.org/10.1109/MC.2015.45
-2) Bland, M. (2014). Finding More Than One Worm in the Apple. Communications of the ACM, 57(7), 58–64. https://doi.org/10.1145/2622630
+1) Severance, C. (2015). Guido van Rossum: The Early Years of Python. Computer, 48(2), 7–9.
+2) Bland, M. (2014). Finding More Than One Worm in the Apple. Communications of the ACM, 57(7), 58–64.
 3) Hattingh, C. (2016). 20 Python libraries you aren't using (but should) (First edition.). O'Reilly Media.
 4) Weiming, J. M. (2019). Mastering Python for Finance. Packt Publishing.
 5) Kuchling, A. M.; Zadka, Moshe. (2000). "What's New in Python 2.0". Python Software Foundation.
 6) Van Rossum, G. (2009). "What's New in Python 3.0". Python Software Foundation.
-7) Cameron, J. (2019). Modern Data Modeling and Visualization Systems. M.S. Information Systems, IS-8005. Kennesaw State University.
+7) Cameron, J. (2019). Modern Data Modeling and Visualization Systems. MSIS, IS-8005. Kennesaw State University.
 8) Computer History Museum. (2018, July). YouTube. https://www.youtube.com/watch?v=Pzkdci2HDpU
-9) Cameron, J. (2020). Python: A Modern Programming Language. M.S. Cybersecurity, CYBR-5210. Kennesaw State University.
+9) Cameron, J. (2020). Python: A Modern Programming Language. M.S. Cyber, CYBR-5210. Kennesaw State University.
 
 
 
