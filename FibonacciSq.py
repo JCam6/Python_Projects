@@ -1,4 +1,4 @@
-# Dynamic Programming sample using Fibonacci's sequence.
+# Dynamic Programming example using Fibonacci's sequence.
 # System recursion limit will bound program response near a 130 digit integer.
 
 def main():
