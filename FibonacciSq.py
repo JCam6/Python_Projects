@@ -4,7 +4,7 @@
 def main():
 
 
-    posiiton = int(input("What posiiton in Fibonacci's sequence would you like to find? "))
+    position = int(input("What posiiton in Fibonacci's sequence would you like to find? "))
     result = fib(posiiton)  
     print(result) 
 
