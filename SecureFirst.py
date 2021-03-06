@@ -1,3 +1,4 @@
+# This project was developed for and used in the 2021 cyber defense competition.
 # Make sure python3 is installed and run this program as root or with sudo.
 # Run this as: sudo python3 SecureFirst.py
 
