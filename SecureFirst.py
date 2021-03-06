@@ -82,7 +82,7 @@ def main():
     # Disable a service.
     service_dis_repeat = "y"
     while service_dis_repeat == "y":
-        service_disable = input("\n>>> Disable a service (SSH, FTP, RDP, HTTP)? Type y or n, then hit enter:  ")
+        service_disable = input("\n>>> Stop / Disable a service (SSH, FTP, RDP, HTTP)? Type y or n, then hit enter:  ")
         if service_disable == "y":
             service_dis_name = input("\n>>> Which service? Type name from above and hit enter:  ")
             service_cmd = input("\n>>> Does this distro use systemctl? Type y or n, then hit enter:  ")
@@ -91,7 +91,7 @@ def main():
                 os.system('systemctl disable ' "%s" % (service_dis_name))
             else:
                 os.system('stop ' "%s" % (service_dis_name))
-            print("\n>>> Service " + service_dis_name + " stopped disabled successfully. ")
+            print("\n>>> Service " + service_dis_name + " stopped / disabled successfully. ")
         else:
             print("\n>>> OK")
 
