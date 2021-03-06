@@ -1,3 +1,5 @@
+# This project was developed for and used in the 2021 cyber defense competition.
+
 import os
 
 
