@@ -6,7 +6,7 @@
 #
 # Note Python 2
 # Java class dependency @ github.com/jcam6
-# Needed at C:\Program Files\ScadaBR\work\Catalina\localhost\ScadaBR\org\apache\jsp\uploads\
+# Needed at C:\Program Files\ScadaBR\work\Catalina\localhost\ScadaBR\
 #
 #!/usr/bin/python
 
